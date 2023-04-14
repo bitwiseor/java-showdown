@@ -1,0 +1,67 @@
+Squawkabilly @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Protect  
+- Facade  
+- Brave Bird  
+- Quick Attack  
+
+Kilowattrel @ Focus Sash  
+Ability: Volt Absorb  
+Level: 50  
+Tera Type: Electric  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Tailwind  
+- Endeavor  
+
+Dragonite @ Life Orb  
+Ability: Multiscale  
+Level: 50  
+Tera Type: Steel  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Dragon Dance  
+- Iron Head  
+
+Salamence @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Fighting  
+EVs: 252 HP / 228 Def / 28 Spe  
+Impish Nature  
+- Brick Break  
+- Protect  
+- Roost  
+- Helping Hand  
+
+Iron Jugulis @ Booster Energy  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Steel  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Earth Power  
+- Flash Cannon  
+- Protect  
+
+Talonflame @ Choice Band  
+Ability: Gale Wings  
+Level: 50  
+Tera Type: Flying  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- U-turn  
+- Brave Bird  
+- Flare Blitz  
+- Quick Attack  
